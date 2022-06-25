@@ -1,0 +1,13 @@
+query GetLessonBySlug($slug: String) {
+    lesson(where: {slug: $slug}) {
+        slug
+        videoId
+        title
+        description
+        teacher {
+            avatarURL
+            bio
+            name
+        }
+    }
+}
