@@ -1,4 +1,4 @@
-
+![Ignite-Lab-2-Studies-Plataform](https://user-images.githubusercontent.com/50122135/181342838-c2911f0d-141e-4e0d-a401-668ef5c36563.png)
 
 > Status: Finished ✔️
 
